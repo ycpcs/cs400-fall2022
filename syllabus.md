@@ -22,7 +22,7 @@ title: Syllabus
  
 **Location:** KEC 123 and/or KEC 118 (the back 2 benches in KEC 118 are reserved for the Radio Telescope team, the remaining 3 benches are open for use by any other team.
  
-**Webpage:**  [https://ycpcs.github.io/cs400-fall2022-PW/](https://ycpcs.github.io/cs400-fall2022-PW/)
+**Webpage:**  [https://ycpcs.github.io/cs400-fall2022/](https://ycpcs.github.io/cs400-fall2022/)
 
 **Instructor:**
 
