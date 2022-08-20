@@ -6,7 +6,7 @@ title: CS Capstone I
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS400: Senior Software Design I
+## CS400: CS Capstone I
 
 ## Fall 2022
 

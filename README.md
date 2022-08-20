@@ -11,7 +11,6 @@ Pennsylvania.
 
 Unless indicated otherwise, all materials are
 
-Copyright (c) 2005-2018, David H. Hovemeyer &lt;<dhovemey@ycp.edu>&gt;
 
 Copyright (c) 2006-2020 David S. Babcock &lt;<dbabcock@ycp.edu>&gt;
 
