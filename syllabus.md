@@ -1,14 +1,14 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS400
 title: Syllabus
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS481: Senior Software Project I
+## CS400: CS Capstone I
 
-## Fall 2020
+## Fall 2022
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -16,31 +16,22 @@ title: Syllabus
 
 **Meeting Times:**
 
- - **Section 101:**  MWF        12:00 PM - 12:50 PM <br>
+ - **Mondays & Wednesdays (11:00a-12:15p):** These class sessions are reserved for you to work as a team, unencumbered by "interference" from the faculty.  We will have potential conflicts for the use of KEC 118 due to having multiple teams giving presentations on alternate days: Radio Telescope (Wednesdays), Privilege Walk (Fridays), plus other project teams that have yet to form.  Since the Radio Telescope team has specific hardware that they need to work with, some of it located in KEC 118, that team might take precedence, at times, in which case I have reserved KEC 123 for your use M-W-F from 11:00a to 12:15p.
  
-**Location:** KEC118<br>
-**Webpage:**  [https://ycpcs.github.io/cs481-fall2020/](https://ycpcs.github.io/cs481-fall2020/)
+ - **Fridays (11:00a-12:15p):** This class session is reserved for weekly status updates, assignment presentations, and Milestone presentations.  We will meet **in-person** in KEC 123 while also using Zoom for all weekly status updates, assignment presentations, and milestone - unless otherwise noted.  Your York College Psychology clients (Dr. Perri Druen and Dr. Randi Shedlosky) will likely be in attendance at these meetings, as well.  We will be using Zoom so that Dr. Druen can attend (via Zoom).  We'll work this out during the first week of class.  NOTE: It is not unusual for these in-class sessions to run past 12:15 at times, especially during the status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your other professors.<br>
+ 
+**Location:** KEC 123 and/or KEC 118 (the back 2 benches in KEC 118 are reserved for the Radio Telescope team, the remaining 3 benches are open for use by any other team.
+ 
+**Webpage:**  [https://ycpcs.github.io/cs400-fall2022-PW/](https://ycpcs.github.io/cs400-fall2022-PW/)
 
-**Instructor**
+**Instructor:**
 
->[David Babcock](http://faculty.ycp.edu/~dbabcock/)<br>
-**Email:** <dbabcock@ycp.edu><br>
-**Office:** KEC 101<br>
-**Phone:** (717) 815-6442<br>
-**Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
-M 1:00 PM - 3:00 PM<br>&nbsp;&nbsp;&nbsp;&nbsp;
-T 11:00 AM - 12:00 PM<br>&nbsp;&nbsp;&nbsp;&nbsp;
-W 1:30 PM - 2:30 PM<br>&nbsp;&nbsp;&nbsp;&nbsp;
-R 8:30 AM - 9:30 AM<br>&nbsp;&nbsp;&nbsp;&nbsp;
-F 9:00 AM - 10:00 AM<br>&nbsp;&nbsp;&nbsp;&nbsp;
+> Donald J. Hake II<br>
+**Email:** <djhake2@ycp.edu><br>
+**Office:** At this time, there is no adjunct office, but there might be one assigned in the near future<br>
+**Phone:** I no longer have an office phone number, but I could be persuaded to provide my cell number<br>
+**Office Hours:** W-F: 12:15p to 1:00p (immediately following Capstone, and by appointment)
 
->[James Moscola](http://faculty.ycp.edu/~jmoscola/)<br>
-**Email:** <jmoscola@ycp.edu><br>
-**Office:** KEC 108<br>
-**Phone:** (717) 815-1276<br>
-**Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
-Tu Th: 11:00 AM - 12:30 PM<br>&nbsp;&nbsp;&nbsp;&nbsp;
-M F: 12:00 PM - 1:00 PM;
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -53,7 +44,8 @@ Student teams will complete a substantial project provided by sponsors drawn fro
 industry and research organizations. These projects will be developed under the direction 
 of the course instructor and members of the sponsoring organization.
 
-**Prerequisites:**  CS 320 with a grade of 2 or higher<br>
+
+**Prerequisites:**  CS 320 with a grade of 2.0 or higher (or PC from Spring 2020)<br>
 **Credit:**		3 credit hours<br>
 **Text:**  None
 
@@ -63,38 +55,38 @@ of the course instructor and members of the sponsoring organization.
 
 ### Grading Policy
 
-Your grade will be determined as a weighted average of the grades on the 8 
-assignments, as follows:
+Your team's grade will be determined as a weighted average of the grades on the 7 assignments, as follows:
 
--   Assignment 0 - Individual Effort, Effectiveness, and Professionalism - **30%**
 -   Assignment 1 - Team Project Proposal - **5%**
--   Assignment 2 - Weekly Progress Demonstrations - **10%**
--   Assignment 3 - Requirements - **5%**
--   Assignment 4 - Analysis and Design - **5%**
+-   Assignment 2 - Weekly Progress Journals, Status Reports, Demonstrations - **20%**
+-   Assignment 3 - Requirements - **10%**
+-   Assignment 4 - Analysis and Design - **15%**
 -   Assignment 5 - Minimal Working System - **10%**
 -   Assignment 6 - 50% Working System - **10%**
--   Assignment 7 - Final System, Report, and Presentation - **25%**
+-   Assignment 7 - Final Working System (10%), Presentation (10%), Technical Report (10%) - **30%**
 
-**Individual Effort, Effectiveness, and Professionalism**<br>
-This portion of the grade will assess a variety of factors over the duration of the 
+NOTE: You will be presenting your work for each of these assignments in class on the Fridays they are due.  On the Fridays that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are **due EVERY Friday by 11:00a, immediately prior to EVERY Friday class period, regardless of what else is due that day.**
+
+Individual course grades will be assigned on a 100-point scale according to the following table, and will be determined from your weekly progress journal entries and reports, combined with your team's grade, **multiplied by your individual effort factor determined from the results of your mid-term and final peer evaluations**:
+
+| Range             |  Grade   |
+|:-----------------:|:--------:|
+| ≥ 90 and ≤ 100    |   4.0    |
+| ≥ 87 and &lt; 90  |   3.5    |
+| ≥ 80 and &lt; 87  |   3.0    |
+| ≥ 77 and &lt; 80  |   2.5    |
+| ≥ 70 and &lt; 77  |   2.0    |
+| ≥ 60 and &lt; 70  |   1.0    |
+| &lt; 60           |    0     |
+
+NOTE: Your individual grade will be based on your team's overall grade, as well as the results of your mid-semester and final peer evaluations, which will establish an effort factor that will be used to provide with a percentage of the team grade for which you will receive credit.  This portion of the grade will assess a variety of factors over the duration of the 
 semester-long project, including: individual level of effort, technical contributions 
 and competence, time management, motivation, teamwork, leadership, organization and 
 planning, communication skills, contributions to project documentation, and overall 
 attitude. The individual effort, technical contributions, and technical competence will 
 be determined by the amount and significance of git commits, weekly updates, and peer 
-reviews.
+evaluations.
 
-Grades will be assigned on a 100-point scale according to the following table:
-
-| Range             |  Grade   |
-|:-----------------:|:--------:|
-| ≥ 90 and ≤ 100    |   4.0    |
-| ≥ 85 and &lt; 90  |   3.5    |
-| ≥ 80 and &lt; 85  |   3.0    |
-| ≥ 75 and &lt; 80  |   2.5    |
-| ≥ 70 and &lt; 75  |   2.0    |
-| ≥ 60 and &lt; 70  |   1.0    |
-| &lt; 60           |    0     |
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -102,10 +94,7 @@ Grades will be assigned on a 100-point scale according to the following table:
 
 ### Attendance Policy
 
-Class is scheduled to meet three times per week.  Weekly progress reports are required 
-from each student during one of those meeting times.  Attendance at the weekly progress
-report is mandatory.  During the other two meeting times, students are expected to meet
-with their group to work on their senior design project. 
+**Attendance at every status/presentation meeting (Fridays) and every team meeting (Mondays & Wednesdays) is mandatory**.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
