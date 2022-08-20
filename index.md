@@ -6,7 +6,7 @@ title: CS Capstone I
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS400: Senior Software Design I (Privilege Walk Project)
+## CS400: Senior Software Design I
 
 ## Fall 2022
 
