@@ -14,9 +14,9 @@ title: CS Capstone I
 
 This is the website for CS 400 (CS Capstone I) Fall 2022 at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
 
-You can find the [CS 400 Privilege Walk Project course website here](ycpcs.github.io/cs400-fall2022-PW).
+You can find the [CS 400 Privilege Walk Project course website here](https://ycpcs.github.io/cs400-fall2022-PW).
 
-You can find the [CS 400 YCAS Radio Telescope Project course website here](ycpcs.github.io/cs400-fall2022-RT).
+You can find the [CS 400 YCAS Radio Telescope Project course website here](https://ycpcs.github.io/cs400-fall2022-RT).
 
 
 ## Links
