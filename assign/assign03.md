@@ -1,8 +1,10 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS400
 title: Requirements
 ---
+
+**Due: [See Assignment Schedule](../schedule.html)**
 
 This is a **Team** assignment.
 
@@ -12,7 +14,9 @@ This is a **Team** assignment.
 
 # Your Task
 
-Your task is to document the requirements for your project by adding them as issues and milestones to your main GitHub repository.
+Your task is to document the requirements for your project by adding them as issues and milestones to your main GitHub repository.  **Also, create a Google document summarizing your requirements.**
+
+**If you have clients, you must gather your User Stories, Use Cases, and Requirements from them (David McHugh and Tyler Franks for the YCPHacks website).
 
 ## Milestones
 
@@ -35,15 +39,13 @@ A use case or user story documents, from the perspective of a user of the system
 
 Your team can create use cases or user stories: it's up to you.
 
-If you're a little rusty on how to identify and document requirements, please review [Lecture 3](https://ycpcs.github.io/cs320-spring2017/lectures/lecture03.html) from CS 320.  Chapter 7 of [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) discusses user stories.
+If you're a little rusty on how to identify and document requirements, please review [Lecture 8](https://ycpcs.github.io/cs320-spring2019/lectures/lecture08.html) from CS320.  "UML Distilled" from CS320 discusses use cases and user stories.
 
-<!--
 Consider creating initial issues that correspond to the features of the system, i.e. the tasks necessary for implementing each system requirement. Each requirements may consist of multiple issues. Be sure to add a description to each issue explaining the functionality and requirement the issue will address.
 
 Each milestone should then be assigned appropriate issues describing the features the milestone will implement. Begin with general features, but as a feature is undertaken new detailed issues should be added to the issue tracker documenting the evolution of the system design architecture.
 
 Be sure that as progress on the project proceeds, issues are labeled appropriately and at least weekly comments are added describing work that was accomplished.
--->
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
