@@ -8,7 +8,7 @@ This is the course schedule for CS400.
 
 **Assignment** | **Due**
 :--------------|:---------
-[Assignment 1: Project Proposal](assign/assign01.html)<br>[Assignment 1: Readiness Demo](assign/assign01.html)  | Fri, Sep 9th by 11:00am (prior to class): Proposal Presentation<br> Fri, Sep 16th by 11:00am (prior to class): Readiness Demo during class
+[Assignment 1: Project Proposal](assign/assign01.html)<br>[Assignment 1: Readiness Demo](assign/assign01.html)  | Fri, Sep 9th by 11:00am (prior to class): Proposal Presentation during class<br> Fri, Sep 16th by 11:00am: Readiness Demo during class
 [Assignment 2: Weekly Journal Updates](assign/assign02.html)<br>[Assignment 2: Team Status Reports](assign/assign02.html) | Every Friday by 11:00am (prior to class): Updated on Google Drive<br> Fri, 9-2,9-16,9-30,10-14,10-21,11-4,11-11,12-2: Status Reports presented during class period
 [Assignment 3: Requirements](assign/assign03.html)                         | Fri, Sep 23rd by 11:00am (prior to class): Presentation during class period
 [Assignment 4: Analysis and Design](assign/assign04.html)                  | Fri, Oct 7th by 11:00am (prior to class): Presentation during class period
