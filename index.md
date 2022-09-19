@@ -32,11 +32,11 @@ You can find the [CS 400 YCAS Radio Telescope Project course website here](https
 
 -->
 
-* 8-27-22: Assignment 4 (Analysis & Design) is due by 11:00am, Friday, 10-7-22, with presentation during class
+* 9-19-22: Assignment 4 (Analysis & Design) is due by 11:00am, Monday, 10-3-22, with presentation during class
 
-* 8-27-22: Assignment 3 (Requirements) is due by 11:00am, Friday, 9-23-22, with presentation during class
+* 9-19-22: Assignment 3 (Requirements) is due by 11:00am, Monday, 9-26-22, with presentation during class
 
-* 8-27-22: Assignment 2 (Weekly Journals) are due every Friday by 11:00am (prior to class), with a summary presentation in class on the days that do not already have another assignment due
+* 9-19-22: Assignment 2 (Weekly Journals) are now due every Monday by 11:00am (prior to class), with a summary presentation in class on the days that do not already have another assignment due
 
 * 8-27-22: Assignment 1 (Readiness Demo) is due by 11:00am, Friday, 9-16-22, with presentation during class
 
