@@ -31,8 +31,11 @@ You can find the [CS 400 YCAS Radio Telescope Project course website here](https
 <!-- Commenting out News until it's needed - and the dates will change, anyway
 
 -->
+* 9-29-22: Mid-Semester Peer Evals are due Wednesday, 10-26-22 by Noon, via email in PDF form
 
-* 9-19-22: Assignment 4 (Analysis & Design) is due by 11:00am, Monday, 10-3-22, with presentation during class
+* 9-29-22: Assignment 5 (Minimal Working System) is due 11:00am, Monday, 10-24-22, with presentation during class
+
+* 9-29-22: Assignment 4 (Analysis & Design) has been moved to 11:00am, Wednesday, 10-5-22, with presentation during class
 
 * 9-19-22: Assignment 3 (Requirements) is due by 11:00am, Monday, 9-26-22, with presentation during class
 
